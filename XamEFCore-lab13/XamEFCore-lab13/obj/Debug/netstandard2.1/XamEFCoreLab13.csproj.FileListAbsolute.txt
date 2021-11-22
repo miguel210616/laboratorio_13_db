@@ -1,0 +1,9 @@
+C:\Users\miguel\source\repos\XamEFCore-lab13\XamEFCore-lab13\XamEFCore-lab13\obj\Debug\netstandard2.1\XamEFCoreLab13.csproj.AssemblyReference.cache
+C:\Users\miguel\source\repos\XamEFCore-lab13\XamEFCore-lab13\XamEFCore-lab13\obj\Debug\netstandard2.1\XamEFCoreLab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel\source\repos\XamEFCore-lab13\XamEFCore-lab13\XamEFCore-lab13\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\miguel\source\repos\XamEFCore-lab13\XamEFCore-lab13\XamEFCore-lab13\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\miguel\source\repos\XamEFCore-lab13\XamEFCore-lab13\XamEFCore-lab13\obj\Debug\netstandard2.1\Views\AlbumesPage.xaml.g.cs
+C:\Users\miguel\source\repos\XamEFCore-lab13\XamEFCore-lab13\XamEFCore-lab13\obj\Debug\netstandard2.1\Views\AlbumPage.xaml.g.cs
+C:\Users\miguel\source\repos\XamEFCore-lab13\XamEFCore-lab13\XamEFCore-lab13\obj\Debug\netstandard2.1\XamEFCoreLab13.AssemblyInfoInputs.cache
+C:\Users\miguel\source\repos\XamEFCore-lab13\XamEFCore-lab13\XamEFCore-lab13\obj\Debug\netstandard2.1\XamEFCoreLab13.AssemblyInfo.cs
+C:\Users\miguel\source\repos\XamEFCore-lab13\XamEFCore-lab13\XamEFCore-lab13\obj\Debug\netstandard2.1\XamEFCoreLab13.csproj.CoreCompileInputs.cache
